@@ -12,3 +12,5 @@
 8. Update the main.py
 9. Update the dvc.yaml
 10. app.py
+
+https://drive.google.com/file/d/1YMworhVtf_bUbG6gbDDFnD7m-P38PJtt/view?usp=sharing
