@@ -2,7 +2,7 @@ from cnnClassifier.config.configuration import ConfigurationManager
 from cnnClassifier.components.prepare_base_model import PrepareBaseModel
 from cnnClassifier import logger
 
-STAGE_NAME = "Data Ingestion Stage"
+STAGE_NAME = "Prepare Base Model Stage"
 class PrepareBaseModelPipeline:
     def __init__(self) -> None:
         pass
