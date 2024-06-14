@@ -14,8 +14,10 @@
 
 - Data Link: https://drive.google.com/file/d/1YMworhVtf_bUbG6gbDDFnD7m-P38PJtt/view?usp=sharing
 
-  - export MLFLOW_TRACKING_URI="https://dagshub.com/Samarth-R/Kidney_Disease_Classifiaction-with-MLflow-DVC.mlflow"
+```bash
+export MLFLOW_TRACKING_URI="https://dagshub.com/Samarth-R/Kidney_Disease_Classifiaction-with-MLflow-DVC.mlflow"
 
-  - export MLFLOW_TRACKING_USERNAME=<username>
+export MLFLOW_TRACKING_USERNAME=<username>
 
-  - export MLFLOW_TRACKING_PASSWORD=<your-password>
+export MLFLOW_TRACKING_PASSWORD=<your-password>
+```
